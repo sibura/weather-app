@@ -3,6 +3,6 @@ react-weather-app
 
 git clone https://github.com/sibura/weather-app.git
 
-*npm i
+npm i
 
-**npm run start 
+npm run start 
